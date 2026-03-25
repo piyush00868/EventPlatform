@@ -1,0 +1,2 @@
+# EventPlatform
+Event Booking Platform 
