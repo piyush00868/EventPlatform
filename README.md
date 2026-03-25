@@ -215,3 +215,8 @@ This is not just a CRUD app — it includes:
 - Booking engine  
 - Role-based backend  
 - Admin analytics  
+
+ ## 🔑 Demo Admin Access
+
+Email: admin@eventera.com  
+Password: password123
